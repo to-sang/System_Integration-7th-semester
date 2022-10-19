@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QLSV xmlns="http://tempuri.org/XMLSchema.xsd">
+  <Sinhvien masv="sinhvien01">
+    <Hoten>Nguyễn Văn Tuấn</Hoten>
+    <Ngaysinh>1998-08-12</Ngaysinh>
+    <Gioitinh>Nam</Gioitinh>
+    <Quequan>Hà Nội</Quequan>
+    <Trinhdo>Đại học</Trinhdo>
+    <Hesodiem>3.12</Hesodiem>
+  </Sinhvien>
+  <Sinhvien masv="sinhvien02">
+    <Hoten>Nguyễn Tuấn Anh</Hoten>
+    <Ngaysinh>1995-02-02</Ngaysinh>
+    <Gioitinh>Nam</Gioitinh>
+    <Quequan>Bắc Ninh</Quequan>
+    <Trinhdo>Đại học</Trinhdo>
+    <Hesodiem>3.12</Hesodiem>
+  </Sinhvien>
+</QLSV>
