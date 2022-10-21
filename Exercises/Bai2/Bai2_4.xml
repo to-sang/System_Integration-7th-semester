@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DS xmlns="http://tempuri.org/XMLSchema.xsd">
+  <HoaDon>
+    <MaHD>MaHD1</MaHD>
+    <NgayBan>1900-01-01</NgayBan>
+    <LoaiHang MaLoai="MaLoai1" TenLoai="TenLoai1">
+      <Hang MaHang="MaHan1">
+        <TenHang>TenHang1</TenHang>
+        <SoLuong>1</SoLuong>
+        <DonViTinh>Gói</DonViTinh>
+        <DonGia>2</DonGia>
+      </Hang>
+      <Hang MaHang="MaHan2">
+        <TenHang>TenHang2</TenHang>
+        <SoLuong>-79228162514264337593543950335</SoLuong>
+        <DonViTinh>Hộp</DonViTinh>
+        <DonGia>79228162514264337593543950335</DonGia>
+      </Hang>
+      <Hang MaHang="MaHan3">
+        <TenHang>TenHang3</TenHang>
+        <SoLuong>79228162514264337593543950335</SoLuong>
+        <DonViTinh>Chiếc</DonViTinh>
+        <DonGia>3</DonGia>
+      </Hang>
+    </LoaiHang>
+    <LoaiHang MaLoai="MaLoai2" TenLoai="TenLoai2">
+      <Hang MaHang="MaHan4">
+        <TenHang>TenHang4</TenHang>
+        <SoLuong>0</SoLuong>
+        <DonViTinh>Gói</DonViTinh>
+        <DonGia>79228162514264337593543950334</DonGia>
+      </Hang>
+      <Hang MaHang="MaHan5">
+        <TenHang>TenHang5</TenHang>
+        <SoLuong>2</SoLuong>
+        <DonViTinh>Hộp</DonViTinh>
+        <DonGia>4</DonGia>
+      </Hang>
+      <Hang MaHang="MaHan6">
+        <TenHang>TenHang6</TenHang>
+        <SoLuong>-79228162514264337593543950334</SoLuong>
+        <DonViTinh>Chiếc</DonViTinh>
+        <DonGia>79228162514264337593543950333</DonGia>
+      </Hang>
+    </LoaiHang>
+  </HoaDon>
+  <HoaDon>
+    <MaHD>MaHD2</MaHD>
+    <NgayBan>0001-01-01</NgayBan>
+    <LoaiHang MaLoai="MaLoai4" TenLoai="TenLoai4">
+      <Hang MaHang="MaHa10">
+        <TenHang>TenHang10</TenHang>
+        <SoLuong>-79228162514264337593543950333</SoLuong>
+        <DonViTinh>Gói</DonViTinh>
+        <DonGia>79228162514264337593543950331</DonGia>
+      </Hang>
+      <Hang MaHang="MaHa11">
+        <TenHang>TenHang11</TenHang>
+        <SoLuong>79228162514264337593543950333</SoLuong>
+        <DonViTinh>Hộp</DonViTinh>
+        <DonGia>7</DonGia>
+      </Hang>
+      <Hang MaHang="MaHa12">
+        <TenHang>TenHang12</TenHang>
+        <SoLuong>-2</SoLuong>
+        <DonViTinh>Chiếc</DonViTinh>
+        <DonGia>79228162514264337593543950330</DonGia>
+      </Hang>
+    </LoaiHang>
+    <LoaiHang MaLoai="MaLoai5" TenLoai="TenLoai5">
+      <Hang MaHang="MaHa13">
+        <TenHang>TenHang13</TenHang>
+        <SoLuong>4</SoLuong>
+        <DonViTinh>Gói</DonViTinh>
+        <DonGia>8</DonGia>
+      </Hang>
+      <Hang MaHang="MaHa14">
+        <TenHang>TenHang14</TenHang>
+        <SoLuong>-79228162514264337593543950332</SoLuong>
+        <DonViTinh>Hộp</DonViTinh>
+        <DonGia>79228162514264337593543950329</DonGia>
+      </Hang>
+      <Hang MaHang="MaHa15">
+        <TenHang>TenHang15</TenHang>
+        <SoLuong>79228162514264337593543950332</SoLuong>
+        <DonViTinh>Chiếc</DonViTinh>
+        <DonGia>9</DonGia>
+      </Hang>
+    </LoaiHang>
+  </HoaDon>
+</DS>
